@@ -6,3 +6,7 @@ seaborn
 statsmodels
 folium
 streamlit-folium
+plotly
+reportlab
+pypdf
+folium
